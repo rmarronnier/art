@@ -1,0 +1,20 @@
+section {
+  display: flex;
+  justify-content: center;
+
+}
+
+article {
+  margin-top: 30vh;
+  align-self: center;
+  align-items: center;
+font-family: 'IM Fell DW Pica', serif;
+font-size: 25px;
+height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+p {
+  width: 100%;
+}
